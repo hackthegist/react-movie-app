@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movinmovin/static/css/main.05d37451.chunk.css",
-    "main.js": "/movinmovin/static/js/main.1060640e.chunk.js",
-    "main.js.map": "/movinmovin/static/js/main.1060640e.chunk.js.map",
-    "runtime-main.js": "/movinmovin/static/js/runtime-main.f37d016d.js",
-    "runtime-main.js.map": "/movinmovin/static/js/runtime-main.f37d016d.js.map",
-    "static/js/2.201f37b5.chunk.js": "/movinmovin/static/js/2.201f37b5.chunk.js",
-    "static/js/2.201f37b5.chunk.js.map": "/movinmovin/static/js/2.201f37b5.chunk.js.map",
-    "index.html": "/movinmovin/index.html",
-    "precache-manifest.eee08d5ce7723ba07bce8fd391c82a36.js": "/movinmovin/precache-manifest.eee08d5ce7723ba07bce8fd391c82a36.js",
-    "service-worker.js": "/movinmovin/service-worker.js",
-    "static/css/main.05d37451.chunk.css.map": "/movinmovin/static/css/main.05d37451.chunk.css.map"
+    "main.css": "/react-movie-app/static/css/main.05d37451.chunk.css",
+    "main.js": "/react-movie-app/static/js/main.1060640e.chunk.js",
+    "main.js.map": "/react-movie-app/static/js/main.1060640e.chunk.js.map",
+    "runtime-main.js": "/react-movie-app/static/js/runtime-main.807e0783.js",
+    "runtime-main.js.map": "/react-movie-app/static/js/runtime-main.807e0783.js.map",
+    "static/js/2.201f37b5.chunk.js": "/react-movie-app/static/js/2.201f37b5.chunk.js",
+    "static/js/2.201f37b5.chunk.js.map": "/react-movie-app/static/js/2.201f37b5.chunk.js.map",
+    "index.html": "/react-movie-app/index.html",
+    "precache-manifest.f882ed2f3279d9c345edc4d641c30f1d.js": "/react-movie-app/precache-manifest.f882ed2f3279d9c345edc4d641c30f1d.js",
+    "service-worker.js": "/react-movie-app/service-worker.js",
+    "static/css/main.05d37451.chunk.css.map": "/react-movie-app/static/css/main.05d37451.chunk.css.map"
   }
 }
